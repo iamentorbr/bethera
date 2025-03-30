@@ -1,1 +1,1 @@
-// JavaScript principal do SER+
+// JavaScript principal do BETHERA
